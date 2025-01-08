@@ -4,6 +4,7 @@ Sou estudante de Ciências da Computação e trabalhei 2 anos como estágiario e
 
 Aqui no meu perfil não tem muitos repositórios ainda pois não fiz muitos projetos pessoais, pois desde que entrei, estou sempre focado no trabalho ou nos estudos, mas tem um projeto bem legal que fiz usando somente C que foi um jogo chamado o Enigma de Eistein, de resto, foi mais pra aprender como usar o Git e o Github mesmo
 
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LeoMazzolaDev&show_icons=true&theme=dark"
@@ -15,5 +16,10 @@ Aqui no meu perfil não tem muitos repositórios ainda pois não fiz muitos proj
   />
   <img src="https://github-readme-stats.vercel.app/api?username=LeoMazzolaDev&show_icons=true" />
 </picture>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMazzolaDev&hide_progress=true)
+</div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoMazzolaDev&repo=O-enigma-de-Eisten)](https://github.com/LeoMazzolaDev/O-enigma-de-Eisten)
