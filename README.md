@@ -2,7 +2,7 @@
 
 Sou estudante de Ciências da Computação e trabalhei 2 anos como estágiario e 1 como júnior. Mesmo só tendo contato com a programação a 4 anos, sinto que esse é só o começo de uma grande jornada de muito estudo e noites sem dormir rs
 
-Aqui no meu perfil não tem muitos repositórios ainda pois não fiz muitos projetos pessoais, pois desde que entrei, estou sempre focado no trabalho ou nos estudos, mas tem um projeto bem legal que fiz usando somente C que foi um jogo chamado o Enigma de Eistein, de resto, foi mais pra aprender como usar o Git e o Github mesmo
+Aqui tem alguns dos meus repositórios com alguns trabalhos escolares, estudos e cursos que estou fazendo.
 
 <div>
 <picture>
